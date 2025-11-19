@@ -5,9 +5,6 @@
 ## Authors
 - Abdullah Ahmed (@abdullah-ax) - Qiskit Implementation, Experiment Design
 - Linah Aboudoma (@linah1604) - Data Analysis, Visualization
-- Sherifa Badra - Literature Survey
-- Youssef Shehata - Statistical Analysis
-- Ismail Abdelghaffar - Documentation
 
 ## Overview
 Rigorous experimental validation of Grover's quantum search algorithm using IBM's Qiskit framework, comparing against classical linear search across database sizes from 2^4 to 2^20 elements.
