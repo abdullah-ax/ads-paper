@@ -2,7 +2,7 @@
 Experiment Runner: Grover's Algorithm vs Classical Search
 Scientific experiment with proper statistical methodology
 
-Authors: abdullah-ax, linah1604, sherifa-badra, youssef-shehata, ismail-abdelghaffar
+Authors: abdullah-ax, linah1604,
 Date: 2025-11-19
 """
 
