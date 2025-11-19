@@ -2,7 +2,7 @@
 Classical Linear Search Implementation
 Baseline comparison for Grover's algorithm experiment
 
-Authors: abdullah-ax
+Authors: abdullah-ax, linah1604
 Date: 2025-11-19
 """
 
