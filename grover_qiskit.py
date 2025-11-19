@@ -8,7 +8,7 @@ Reference:
 - Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and 
   Quantum Information. Cambridge University Press.
 
-Authors: abdullah-ax, linah1604, sherifa-badra, youssef-shehata, ismail-abdelghaffar
+Authors: abdullah-ax, linah1604, 
 Date: 2025-11-19
 """
 
